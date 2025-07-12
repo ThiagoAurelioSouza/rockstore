@@ -1,0 +1,12 @@
+# React padrão
+node_modules/
+build/
+.env
+
+# IDEs
+.vscode/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
