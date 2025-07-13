@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rockstore/static/css/main.2ccd1e42.css",
-    "main.js": "/rockstore/static/js/main.3c7d9787.js",
+    "main.js": "/rockstore/static/js/main.66ba4abe.js",
     "index.html": "/rockstore/index.html",
     "main.2ccd1e42.css.map": "/rockstore/static/css/main.2ccd1e42.css.map",
-    "main.3c7d9787.js.map": "/rockstore/static/js/main.3c7d9787.js.map"
+    "main.66ba4abe.js.map": "/rockstore/static/js/main.66ba4abe.js.map"
   },
   "entrypoints": [
     "static/css/main.2ccd1e42.css",
-    "static/js/main.3c7d9787.js"
+    "static/js/main.66ba4abe.js"
   ]
 }
